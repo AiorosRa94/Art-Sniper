@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixel Sniper", "Pixel Sniper.csproj", "{CA1E5ADC-DB9D-67CE-10B4-F9BB5CC89726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixel Sniper.Editor", "Pixel Sniper.Editor.csproj", "{7340B87B-7B0B-35F1-BB1B-E32836AD4054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1E5ADC-DB9D-67CE-10B4-F9BB5CC89726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1E5ADC-DB9D-67CE-10B4-F9BB5CC89726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1E5ADC-DB9D-67CE-10B4-F9BB5CC89726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1E5ADC-DB9D-67CE-10B4-F9BB5CC89726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7340B87B-7B0B-35F1-BB1B-E32836AD4054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7340B87B-7B0B-35F1-BB1B-E32836AD4054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7340B87B-7B0B-35F1-BB1B-E32836AD4054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7340B87B-7B0B-35F1-BB1B-E32836AD4054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE2BD93-3944-4F5D-AB4F-5F3C5E517D91}
+	EndGlobalSection
+EndGlobal
